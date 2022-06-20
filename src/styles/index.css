@@ -1,12 +1,87 @@
 
-/* 
+.container{
+    display: flex;
+    justify-content:center;
+    height: 100x;
+    background-color: black;
+    margin: 10px;
+ 
+}
 
-    You can write your own styles here...
+.clock{
+    background-color: #101010;
+    margin: 15px;
+    font-size: 60px;
+    line-height: 60px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin:10px;
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+}
 
-*/
+.six{
+    background-color: #101010;
+    margin: 15px;
+    font-size: 60px;
+    line-height: 60px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin:10px;
+}
+
+.five{
+    background-color: #101010;
+    margin: 15px;
+    font-size: 60px;
+    line-height: 60px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin:10px;
+}
+
+.four{
+    background-color: #101010;
+    margin: 15px;
+    font-size: 60px;
+    line-height: 60px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin:10px;
+}
+
+.three{
+    background-color: #101010;
+    margin: 15px;
+    font-size: 60px;
+    line-height: 60px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin:10px;
+}
+
+.two{
+    background-color: #101010;
+    margin: 15px;
+    font-size: 60px;
+    line-height: 60px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin:10px;
+}
+
+.one{
+    background-color: #101010;
+    margin: 15px;
+    font-size: 60px;
+    line-height: 60px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin:10px;
+}
