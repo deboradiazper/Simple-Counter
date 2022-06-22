@@ -4,7 +4,8 @@ import PropTypes from "prop-types";
 //create your first component
 const SimpleCounter = (props) => {
 	return (
-		<div className="container">
+		<div className="container col-md-4 ">
+				
 				<div className="clock">
 					<i className="far fa-clock" />
 				</div>
